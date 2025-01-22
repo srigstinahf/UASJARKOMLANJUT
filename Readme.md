@@ -10,10 +10,6 @@ Buatlah Topologi dan Konfigurasi ruang lab praktikum Universitas Esa Unggul untu
 
 **JAWABAN:**
 
-Berikut adalah parafrase dari teks yang telah diberikan:
-
----
-
 **Setiap kampus memerlukan IP publik yang disediakan oleh ISP untuk saling terhubung melalui jaringan internet.**  
 Internet Service Provider (ISP) adalah layanan yang menyediakan akses internet kepada pengguna untuk terhubung secara daring. Di Indonesia, ISP lebih dikenal sebagai penyedia atau provider internet. Dalam kasus ini, ISP berfungsi sebagai jalur utama yang menghubungkan tiga kampus melalui jaringan publik. Untuk menjamin keamanan koneksi antar-kampus, digunakan VPN tunnel, yaitu teknologi yang menciptakan jalur aman di jaringan publik. VPN tunnel melindungi data dari penyadapan dan manipulasi dengan mengenkripsi data yang dikirimkan melalui jaringan tersebut.  
 
